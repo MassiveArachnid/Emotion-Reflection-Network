@@ -1,2 +1,3 @@
 # Emotion-Reflection-Network
 A unique architecture for a neural network, with the primary changes being real-time self reflection and a unique way of training.
+Emotion Reflection network, which offers unique advantages because of the fact that the ai redirects its own outputs into a 'self reflection network' and the ai information is trained using emotions that directly influence weight modification, among other unique features. The AI is designed to be capable of more creative problem solving and giving unique answers to problems, in addition to feeling truly alive and organic to interact with
